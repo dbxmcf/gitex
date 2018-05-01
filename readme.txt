@@ -6,3 +6,4 @@ Git is good.
 Git enable --no-fastforward merge
 Git enable ff merge
 Git add ff merge
+some more steps
